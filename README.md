@@ -22,7 +22,7 @@
 
 > I like building real tools I actually use every day. I'm interested in **AI / Machine Learning** and **Embedded Systems / Hardware**, and in bringing the two together.
 >
-> 🧠 **I build with AI.** My projects are made with the help of AI coding tools (like Claude): I come up with the idea, shape the design, test and decide — the AI helps write the code. I don't know every technology listed here in depth; I'm learning them project by project.
+> 🧠 **I build with AI.** My projects are made with the help of AI coding tools (like Claude): I come up with the idea, shape the design, test and decide — the AI helps write the code. I'm learning them project by project.
 
 ---
 
