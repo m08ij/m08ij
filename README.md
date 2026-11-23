@@ -18,8 +18,11 @@
 - 🤖 مهتم بـ **الذكاء الاصطناعي** وكيف أدمجه بتطبيقات بسيطة تفيد الناس (Gemini · n8n · OCR).
 - 🔌 ومهتم بـ **الأنظمة المدمجة والهاردوير**: المتحكّمات الدقيقة، والدوائر، وإنترنت الأشياء (IoT).
 - 🌍 بكتب واجهات **عربية أولاً (RTL)** ومعها إنجليزي.
+- 🧠 **بشتغل مع الذكاء الاصطناعي:** مشاريعي مبنية بمساعدة أدوات AI (مثل Claude). أنا بحدد الفكرة والتصميم وبجرّب وبقرّر، والـAI بساعدني بكتابة الكود. ما بعرف كل التقنيات المذكورة هون بعمق، وبتعلّمها خطوة خطوة مع كل مشروع.
 
 > I like building real tools I actually use every day. I'm interested in **AI / Machine Learning** and **Embedded Systems / Hardware**, and in bringing the two together.
+>
+> 🧠 **I build with AI.** My projects are made with the help of AI coding tools (like Claude): I come up with the idea, shape the design, test and decide — the AI helps write the code. I don't know every technology listed here in depth; I'm learning them project by project.
 
 ---
 
@@ -72,7 +75,9 @@
 
 ---
 
-### 🧰 الأدوات · Tech
+### 🧰 التقنيات المستخدمة بمشاريعي · Tech used in my projects
+
+<div align="center"><sub>انبنت بمساعدة الذكاء الاصطناعي · built with AI assistance</sub></div>
 
 <div align="center">
 
