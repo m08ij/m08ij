@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.svg" width="120" alt="m08ij logo">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+m08ij+%F0%9F%91%8B;Computer+Engineering+Student+%40+HU+%F0%9F%87%AF%F0%9F%87%B4;Into+AI+%2B+Embedded+Systems;I+build+things+that+make+my+life+easier" alt="Typing intro">
 
 ### 🎓 طالب هندسة حاسوب · الجامعة الهاشمية · الأردن
